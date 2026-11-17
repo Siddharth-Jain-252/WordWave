@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+
+tensorflow==2.21.0
+keras==3.13.2
+numpy==2.4.6
